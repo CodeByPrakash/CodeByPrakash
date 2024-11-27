@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/omprakash-cse/](https://www.linkedin.com/in/rajat-kumar-jena-a2398a273/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/omprakash-cse/](https://www.linkedin.com/in/omprakash-cse/)
 
-- 💬 Ask me about **MERN, C, Java**
+- 💬 Ask me about **ML, AI, C, Java, Hacking**
 
 - 📫 How to reach me **omprakashbehera.cse@gmail.com**
 
