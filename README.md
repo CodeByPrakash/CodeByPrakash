@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <video width="400" height="240" align="right" src="https://cdnl.iconscout.com/lottie/premium/thumb/programmer-4375641-3645911.mp4" type="video/mp4"></video>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat78pq&label=Profile%20views&color=0e75b6&style=flat" alt="rajat78pq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat78pq&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 🌱 I’m currently learning **Full Stack**
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmTheWhiteHat&show_icons=true&locale=en&layout=compact" alt="OmTheWhiteHat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTheWhiteHat&show_icons=true&locale=en" alt="rajat78pq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OmTheWhiteHat&show_icons=true&locale=en" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmTheWhiteHat&" alt="rajat78pq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmTheWhiteHat&" /></p>
