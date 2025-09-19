@@ -97,7 +97,7 @@
 ###
 <div align="center">
   
-![snake gif](https://github.com/codebydeepankar/codebyprakash/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/codebydeepankar/codebydeepankar/blob/output/github-snake-dark.svg)
 
 </div>
 
