@@ -93,6 +93,10 @@
 <h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect - </h3>
 <a href="https://linkedin.com/in/omprakash-cse"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" target="_blank"></a>
 <a href="https://instagram.com/quasar_om"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70" target="_blank"></a>
+<!-- ⭐ Added ORCID QR Code Below ⭐ -->
+<a href="https://drive.google.com/file/d/1SAJBCcVWQqH439Ih2M5FMlKqy8PK5V8E/view?usp=drive_link">
+   <img src="ORCID.png" width="90" title="My ORCID QR Code" />
+</a>
 
 
 ###
