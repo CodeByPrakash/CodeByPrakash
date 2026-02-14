@@ -98,17 +98,3 @@
    <img src="ORCID.png" width="90" title="My ORCID QR Code" />
 </a>
 
-
-###
-<div align="center">
-  
-![snake gif](https://github.com/codebydeepankar/codebydeepankar/blob/output/github-snake-dark.svg)
-
-</div>
-
-###
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/#mylink"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/#mylink" /></a></p>
-
-###
