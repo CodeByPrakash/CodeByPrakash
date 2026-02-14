@@ -77,7 +77,7 @@
 
 
 <div align="center">
-  <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByPrakash)](https://github.com/anuraghazra/github-readme-stats) <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByPrakash)](https://github.com/anuraghazra/github-readme-stats) <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeByPrakash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
