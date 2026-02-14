@@ -13,15 +13,11 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://soloist.ai/#mylink](https://soloist.ai/#mylink)
-
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, PHP, SQL, Ethical Hacking**
 
 - 📫 How to reach me **omprakashbehera.cse@gmail.com**
 
-- 📄 Know about my experiences [Resume](#linkofresume)
-
-- ⚡ Fun fact **I am Funny**
+- 📄 I am Goal Oriented.
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle" />
