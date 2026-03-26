@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyprakash&label=Profile%20views&color=0e75b6&style=flat" alt="codebyprakash" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **CNN and Deep Leanrning, LLMS, MCP, ML**
 
 - 💬 Ask me about **MERN, PHP, SQL, Ethical Hacking**
 
