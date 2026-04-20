@@ -268,19 +268,19 @@ const omPrakash = {
 
 </div>
 
----
+<!---
 
 ## 🏆 GitHub Trophies
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByPrakash&bg_color=050505&color=ff0000&line=ff0000&point=fa6400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+--->
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyprakash&theme=tokyo-night&hide_border=true&area=true" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByPrakash&bg_color=0c0c0d&color=3700ff&line=4400ff&point=ff00c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
