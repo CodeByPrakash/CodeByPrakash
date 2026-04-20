@@ -164,6 +164,9 @@ const omPrakash = {
         <a href="https://github.com/CodeByPrakash/ecommerce_website">
           <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
+        <a href="https://open-ecommerce.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
       </p>
       <p>Full-featured e-commerce platform with product listings, cart management, user auth, and payment integration.</p>
       <p align="center">
