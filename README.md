@@ -6,11 +6,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Applications+%F0%9F%8C%90;Exploring+AI+%2F+ML+%26+Deep+Learning+%F0%9F%A4%96;Tinkering+with+LLMs+%26+MCP+%F0%9F%A7%A0;Passionate+about+Ethical+Hacking+%F0%9F%94%90)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Applications+%F0%9F%8C%90;Exploring+AI+%2F+ML+%26+Deep+Learning+%F0%9F%A4%96;Tinkering+with+LLMs+%26+MCP+%F0%9F%A7%A0;Passionate+about+Ethical+Hacking+%F0%9F%94%90" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=codebyprakash&label=Profile%20Views&color=6E56CF&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/CodeByPrakash?label=Followers&style=for-the-badge&color=6E56CF&logo=github)](https://github.com/CodeByPrakash)
+<a href="https://github.com/CodeByPrakash">
+  <img src="https://img.shields.io/github/followers/CodeByPrakash?label=Followers&style=for-the-badge&color=6E56CF&logo=github&logoColor=white" alt="GitHub Followers"/>
+</a>
 
 </div>
 
@@ -55,11 +61,11 @@ const omPrakash = {
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/face--api.js-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🩺 MRS-AI — Healthcare System</h3>
+      <h3 align="center">🩺 MRS-AI — AI Healthcare System</h3>
       <p align="center">
         <a href="https://github.com/CodeByPrakash/MRS-AI">
           <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -99,8 +105,8 @@ const omPrakash = {
       <p>A sleek chat interface for running and interacting with Large Language Models locally — no cloud, no data leaks, full privacy.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/LLM-FF4500?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LLM-FF4500?style=flat-square&logo=openai&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -173,7 +179,7 @@ const omPrakash = {
           <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>A handy CLI/GUI tool to switch between popular public DNS providers (Google, Cloudflare, OpenDNS) instantly for better speed and privacy.</p>
+      <p>CLI/GUI tool to instantly switch between popular public DNS providers (Google, Cloudflare, OpenDNS) for better speed and privacy.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -204,39 +210,45 @@ const omPrakash = {
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<br/><br/>
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/><br/>
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br/><br/>
 
 **Tools & Systems**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 
 </div>
 
@@ -248,11 +260,11 @@ const omPrakash = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=codebyprakash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyprakash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyprakash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=codebyprakash&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=codebyprakash&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -262,17 +274,17 @@ const omPrakash = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codebyprakash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=codebyprakash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=codebyprakash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyprakash&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -282,10 +294,21 @@ const omPrakash = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omprakash-cse)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/quasar_om)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omprakashbehera.cse@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white)](https://soloist.ai/deepankarsahoo)
+<a href="https://linkedin.com/in/omprakash-cse">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/quasar_om">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:omprakashbehera.cse@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://soloist.ai/deepankarsahoo">
+  <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
