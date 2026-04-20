@@ -1,171 +1,242 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Om%20Prakash%20Behera&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Om%20Prakash&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast%20%7C%20Security%20Geek&descAlignY=60&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=7C6AF7&center=true&vCenter=true&multiline=false&width=600&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;Exploring+AI%2C+ML+%26+Deep+Learning+%F0%9F%A7%A0;Breaking+things+%E2%80%94+ethically+%F0%9F%94%90;From+Odisha%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/CodeByPrakash)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Building+Full-Stack+Web+Applications+%F0%9F%8C%90;Exploring+AI+%2F+ML+%26+Deep+Learning+%F0%9F%A4%96;Tinkering+with+LLMs+%26+MCP+%F0%9F%A7%A0;Passionate+about+Ethical+Hacking+%F0%9F%94%90)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=codebyprakash&label=Profile+Views&color=7C6AF7&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=codebyprakash&label=Profile%20Views&color=6E56CF&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omprakash-cse)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/quasar_om)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omprakashbehera.vercel.app)
-&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2403-2907)
+[![GitHub followers](https://img.shields.io/github/followers/CodeByPrakash?label=Followers&style=for-the-badge&color=6E56CF&logo=github)](https://github.com/CodeByPrakash)
 
 </div>
 
 ---
 
-## 🧬 About Me
+## 🧑‍💻 About Me
 
 ```typescript
-const prakash = {
-  name       : "Om Prakash Behera",
-  alias      : "CodeByPrakash",
-  location   : "Asurali, Bhadrak, Odisha 🇮🇳",
-  education  : "B.Tech — Computer Science & Engineering",
-  roles      : ["Full Stack Developer", "ML Explorer", "Ethical Hacker"],
-  currently  : ["CNN & Deep Learning", "LLMs", "MCP", "Rust"],
-  askMeAbout : ["MERN Stack", "PHP", "SQL", "Cybersecurity"],
-  contact    : "omprakashbehera.cse@gmail.com",
-  funFact    : "I love Deep Space, Exoplanets & painting 🎨🌌",
+const omPrakash = {
+  name:       "Om Prakash Behera",
+  location:   "India 🇮🇳",
+  role:       "Fullstack Developer & AI Explorer",
+  education:  "Computer Science Engineering",
+  contact:    "omprakashbehera.cse@gmail.com",
+
+  currentlyLearning: ["CNN", "Deep Learning", "LLMs", "MCP", "Machine Learning"],
+  expertise:         ["MERN Stack", "PHP", "SQL", "Ethical Hacking"],
+
+  askMeAbout: ["React", "Node.js", "Python", "MongoDB", "System Security"],
+  funFact:    "I debug with console.log() and I'm proud of it 😄",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,postgres&theme=dark" />
-</p>
-
-### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
-</p>
-
-### 🔧 Tools & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode,rust&theme=dark" />
-</p>
-
----
-
 ## 🚀 Featured Projects
-
-<div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 MRS-AI — Medical Report System</h3>
-      <p>AI-powered healthcare diagnosis system. Patients enter symptoms and get preliminary condition predictions via an SVM classifier trained on medical data. Built with a clean Flask REST backend and a responsive web frontend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SVM-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+    <td width="50%">
+      <h3 align="center">🎭 EmoSense — Face Emotion Detector</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/face-emotion-detection">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://prakash-emosense.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
       </p>
-      <a href="https://github.com/CodeByPrakash">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖐️ AR Hand Gesture Recognition</h3>
-      <p>Real-time browser-based AR hand gesture detection using computer vision. No backend needed — runs entirely in the browser using TensorFlow.js and WebGL. Deployed live on Vercel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      </p>
-      <a href="https://arhandgesture.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/CodeByPrakash">View Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ 4D Smart Menu — AR Restaurant Menu</h3>
-      <p>Web-based AR menu system for college demo. Features 3D food model rendering via Three.js, dynamic QR code generation per dish, admin CRUD panel, and allergen filtering. Customers scan a QR to see 3D previews of food before ordering.</p>
-      <p>
+      <p>Real-time multi-face emotion detection dashboard with live charts (Bar, Radar, Donut, Line), session stats, and snapshot gallery. Built with React + face-api.js.</p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/QRCode-333333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/face--api.js-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
       </p>
-      <a href="https://github.com/CodeByPrakash">View Repo →</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔒 Student Privacy Dashboard</h3>
-      <p>Next.js web app + Chrome Extension combo that gives students visibility and control over their data privacy on educational platforms. Tracks permissions, data exposure, and provides actionable privacy recommendations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <td width="50%">
+      <h3 align="center">🩺 MRS-AI — Healthcare System</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/MRS-AI">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
-      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+      <p>AI-powered healthcare web app that predicts diseases from symptoms using an SVC ML model, with Wikipedia summaries, medication, diet, and workout recommendations.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 LOCAL LLM<</h3>
-      <p>Fully local LLM-powered personal assistant for students. Built on Qwen2.5 with QLoRA fine-tuning via Unsloth, ChromaDB for RAG-based memory, optimized to run on low-VRAM GPUs (6GB). Your own private AI — no cloud needed.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Qwen2.5-7C3AED?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
-        <img src="https://img.shields.io/badge/QLoRA-00C7B7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Unsloth-F59E0B?style=flat-square"/>
+    <td width="50%">
+      <h3 align="center">🖐️ AR Hand Gesture Control</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/AR_HandGesture">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
-      <a href="https://github.com/CodeByPrakash/Local-LLM-ChatUI">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📏 Vision Height Detector</h3>
-      <p>Flask + OpenCV application that estimates a person's height from a webcam feed using HOG-based human detection. Features a Web Audio API sound system for real-time audio feedback and a live measurement overlay.</p>
-      <p>
+      <p>Augmented Reality hand gesture recognition system for touchless interaction and control using computer vision techniques.</p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web_Audio_API-FF4500?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square"/>
       </p>
-      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Local LLM Chat UI</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/Local-LLM-ChatUI">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>A sleek chat interface for running and interacting with Large Language Models locally — no cloud, no data leaks, full privacy.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LLM-FF4500?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 Open Ecommerce</h3>
-      <p>Full-featured e-commerce platform deployed live. Product listings, cart management, and a complete checkout flow. Built with a modern MERN-adjacent stack and deployed on Vercel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <td width="50%">
+      <h3 align="center">🔒 Privacy Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/privacy_dashboard">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
-      <a href="https://open-ecommerce.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/CodeByPrakash">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 Celestial Oracle — Astrology App</h3>
-      <p>Personalized astrology web app built in React. Generates birth chart readings, planetary positions, and daily horoscopes based on user birth data. Features animated cosmic UI with zodiac visualizations.</p>
-      <p>
+      <p>A comprehensive privacy management dashboard to monitor and control personal data exposure and digital footprint.</p>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CSS_Animations-CC6699?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       </p>
-      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+    <td width="50%">
+      <h3 align="center">💬 OurTalks — Chat App</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/OurTalks">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Real-time chat application with rooms, messaging, and a clean modern UI for seamless communication.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 AttendTrue Analytics</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/AttendTrue-Analytic">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Smart attendance tracking and analytics platform for educational institutions with insightful dashboards and reports.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 E-Commerce Website</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/ecommerce_website">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Full-featured e-commerce platform with product listings, cart management, user auth, and payment integration.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 Public DNS Switcher</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/Public_DNS_Switcher">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>A handy CLI/GUI tool to switch between popular public DNS providers (Google, Cloudflare, OpenDNS) instantly for better speed and privacy.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎬 Movie Recommender System</h3>
+      <p align="center">
+        <a href="https://github.com/CodeByPrakash/Movie-Recommender-System">
+          <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>ML-powered content-based movie recommendation engine with a clean web interface to discover films tailored to your taste.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools & Systems**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
@@ -175,12 +246,13 @@ const prakash = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codebyprakash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=codebyprakash&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C6AF7&ring=7C6AF7&fire=FF6B6B&currStreakLabel=7C6AF7" />
+<img src="https://github-readme-stats.vercel.app/api?username=codebyprakash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyprakash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyprakash&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&layout=compact&langs_count=8" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=codebyprakash&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -190,58 +262,39 @@ const prakash = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=codebyprakash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=codebyprakash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
 ---
 
-## 🔝 Top Contributions
+## 🔝 Top Contributed Repos
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=codebyprakash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=codebyprakash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🌐 Let's Connect
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyprakash&bg_color=0d1117&color=7C6AF7&line=7C6AF7&point=ffffff&area=true&hide_border=true)](https://github.com/CodeByPrakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omprakash-cse)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/quasar_om)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omprakashbehera.cse@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white)](https://soloist.ai/deepankarsahoo)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://linkedin.com/in/omprakash-cse">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/quasar_om">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:omprakashbehera.cse@gmail.com">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" />
-</a>
-&nbsp;&nbsp;
-<a href="https://omprakashbehera.vercel.app">
-  <img src="https://user-images.githubusercontent.com/74038190/216121919-cf4c5097-7d35-4f0d-848e-06e940c0af1f.png" width="60" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-<br/><br/>
-
-> *"Curiosity is the engine of achievement — and I've got a full tank."* 🚀
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
