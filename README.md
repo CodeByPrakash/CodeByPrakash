@@ -274,7 +274,7 @@ const omPrakash = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeByPrakash&theme=onedark)](https://github.com/CodeByPrakash/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=codebyprakash&theme=darkhub" />
 
 </div>
 
