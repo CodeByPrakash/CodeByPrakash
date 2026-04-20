@@ -119,7 +119,7 @@ const prakash = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 ARIA — Local AI Student Assistant</h3>
+      <h3>🧠 LOCAL LLM<</h3>
       <p>Fully local LLM-powered personal assistant for students. Built on Qwen2.5 with QLoRA fine-tuning via Unsloth, ChromaDB for RAG-based memory, optimized to run on low-VRAM GPUs (6GB). Your own private AI — no cloud needed.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -128,7 +128,7 @@ const prakash = {
         <img src="https://img.shields.io/badge/QLoRA-00C7B7?style=flat-square"/>
         <img src="https://img.shields.io/badge/Unsloth-F59E0B?style=flat-square"/>
       </p>
-      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+      <a href="https://github.com/CodeByPrakash/Local-LLM-ChatUI">View Repo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📏 Vision Height Detector</h3>
