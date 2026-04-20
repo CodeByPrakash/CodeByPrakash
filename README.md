@@ -272,11 +272,7 @@ const omPrakash = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codebyprakash&theme=darkhub" />
-
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByPrakash&bg_color=050505&color=ff0000&line=ff0000&point=fa6400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
