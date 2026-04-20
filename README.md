@@ -68,13 +68,104 @@ const prakash = {
 
 <div align="center">
 
-| 🔭 Project | 📝 Description | 🛠 Stack |
-|:---:|:---|:---:|
-| [**AR Hand Gesture**](https://arhandgesture.vercel.app) | Real-time AR gesture recognition in the browser | `JS` `TF.js` `WebGL` |
-| [**Open Ecommerce**](https://open-ecommerce.vercel.app) | Full-featured e-commerce platform | `Next.js` `MongoDB` `Stripe` |
-| [**4D Smart Menu**](https://github.com/CodeByPrakash) | AR restaurant menu with 3D food models & QR | `React` `Three.js` `Flask` |
-| [**MRS-AI**](https://github.com/CodeByPrakash) | Medical diagnosis system using SVM | `Python` `Flask` `SVM` |
-| [**ARIA**](https://github.com/CodeByPrakash) | Local LLM student assistant (Qwen + ChromaDB) | `Python` `QLoRA` `Unsloth` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 MRS-AI — Medical Report System</h3>
+      <p>AI-powered healthcare diagnosis system. Patients enter symptoms and get preliminary condition predictions via an SVM classifier trained on medical data. Built with a clean Flask REST backend and a responsive web frontend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SVM-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      </p>
+      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖐️ AR Hand Gesture Recognition</h3>
+      <p>Real-time browser-based AR hand gesture detection using computer vision. No backend needed — runs entirely in the browser using TensorFlow.js and WebGL. Deployed live on Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      </p>
+      <a href="https://arhandgesture.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ 4D Smart Menu — AR Restaurant Menu</h3>
+      <p>Web-based AR menu system for college demo. Features 3D food model rendering via Three.js, dynamic QR code generation per dish, admin CRUD panel, and allergen filtering. Customers scan a QR to see 3D previews of food before ordering.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/QRCode-333333?style=flat-square"/>
+      </p>
+      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 Student Privacy Dashboard</h3>
+      <p>Next.js web app + Chrome Extension combo that gives students visibility and control over their data privacy on educational platforms. Tracks permissions, data exposure, and provides actionable privacy recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 ARIA — Local AI Student Assistant</h3>
+      <p>Fully local LLM-powered personal assistant for students. Built on Qwen2.5 with QLoRA fine-tuning via Unsloth, ChromaDB for RAG-based memory, optimized to run on low-VRAM GPUs (6GB). Your own private AI — no cloud needed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qwen2.5-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
+        <img src="https://img.shields.io/badge/QLoRA-00C7B7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Unsloth-F59E0B?style=flat-square"/>
+      </p>
+      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📏 Vision Height Detector</h3>
+      <p>Flask + OpenCV application that estimates a person's height from a webcam feed using HOG-based human detection. Features a Web Audio API sound system for real-time audio feedback and a live measurement overlay.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_Audio_API-FF4500?style=flat-square"/>
+      </p>
+      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Open Ecommerce</h3>
+      <p>Full-featured e-commerce platform deployed live. Product listings, cart management, and a complete checkout flow. Built with a modern MERN-adjacent stack and deployed on Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="https://open-ecommerce.vercel.app">🔗 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 Celestial Oracle — Astrology App</h3>
+      <p>Personalized astrology web app built in React. Generates birth chart readings, planetary positions, and daily horoscopes based on user birth data. Features animated cosmic UI with zodiac visualizations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS_Animations-CC6699?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://github.com/CodeByPrakash">View Repo →</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
