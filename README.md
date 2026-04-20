@@ -87,6 +87,9 @@ const omPrakash = {
         <a href="https://github.com/CodeByPrakash/AR_HandGesture">
           <img src="https://img.shields.io/badge/View%20Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
+        <a href="https://arhandgesture.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
       </p>
       <p>Augmented Reality hand gesture recognition system for touchless interaction and control using computer vision techniques.</p>
       <p align="center">
