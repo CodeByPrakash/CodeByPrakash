@@ -306,7 +306,7 @@ const omPrakash = {
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://soloist.ai/deepankarsahoo">
+<a href="https://omprakashbehera.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
