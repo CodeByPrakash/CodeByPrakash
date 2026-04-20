@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/zephyrus21/zephyrus21/refs/heads/master/my_banner.png)](https://soloist.ai/deepankarsahoo)
+[![MasterHead](https://raw.githubusercontent.com/zephyrus21/zephyrus21/refs/heads/master/my_banner.png)]
 
 <h1 align="center">Hi 👋, I'm Om Prakash</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
