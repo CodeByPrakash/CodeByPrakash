@@ -264,12 +264,6 @@ const omPrakash = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codebyprakash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyprakash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=codebyprakash&theme=tokyonight&hide_border=true" />
 
 </div>
