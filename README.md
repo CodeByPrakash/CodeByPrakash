@@ -153,6 +153,7 @@ const omPrakash = {
       </p>
       <p>Smart attendance tracking and analytics platform for educational institutions with insightful dashboards and reports.</p>
       <p align="center">
+        <img src="https://img.shields.io/badge/couchDB-red?style=flat-square"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
