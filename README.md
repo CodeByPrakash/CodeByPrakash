@@ -281,12 +281,14 @@ const omPrakash = {
   </a>
 </p>
 
+<!-- 🏆 GitHub Achievements / Trophies -->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
+
 <p align="center">
   <a href="https://github.com/CodeByPrakash">
     <img
-      src="https://api.vaunt.dev/v1/github/entities/CodeByPrakash/achievements?format=svg&limit=6"
-      width="400"
-      alt="GitHub Achievements"
+      src="https://github-profile-trophy.vercel.app/?username=CodeByPrakash&theme=matrix&no-bg=true&no-frame=true&row=2&column=6&margin-w=15&margin-h=15"
+      alt="GitHub Achievements and Trophies"
     />
   </a>
 </p>
