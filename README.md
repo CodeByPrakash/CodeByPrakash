@@ -263,21 +263,19 @@ const omPrakash = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div data-importer="stats" align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=CodeByPrakash&theme=dracula&hide_border=true"
-  alt="GitHub Streak"
-  height="180"
-/>
+  <img
+    src="https://streak-stats.demolab.com?user=CodeByPrakash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+    height="150"
+    alt="GitHub streak graph"
+  />
 
-<br/><br/>
-
-<img
-  src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true"
-  alt="GitHub Trophies"
-  height="180"
-/>
+  <img
+    src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
+    height="150"
+    alt="GitHub trophy graph"
+  />
 
 </div>
 
@@ -285,23 +283,26 @@ const omPrakash = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<div data-importer="pacman" align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg"
-    alt="Pacman Contribution Graph"
-    width="900"
-  />
-</picture>
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman"
+      alt="Pacman contribution graph"
+    />
+
+  </picture>
 
 </div>
 
