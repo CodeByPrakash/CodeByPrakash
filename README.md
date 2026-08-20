@@ -265,34 +265,45 @@ const omPrakash = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=codebyprakash&theme=tokyonight&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com/?user=CodeByPrakash&theme=dracula&hide_border=true"
+  alt="GitHub Streak"
+  height="180"
+/>
+
+<br/><br/>
+
+<img
+  src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true"
+  alt="GitHub Trophies"
+  height="180"
+/>
 
 </div>
 
-<!---
-
-## 🏆 GitHub Trophies
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByPrakash&bg_color=050505&color=ff0000&line=ff0000&point=fa6400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
---->
+---
 
 ## 📈 Contribution Graph
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeByPrakash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<div align="center">
 
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg"
+    alt="Pacman Contribution Graph"
+    width="900"
+  />
 </picture>
 
-###
+</div>
 
 ---
 
