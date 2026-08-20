@@ -1,0 +1,31 @@
+name: Update GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=CodeByPrakash&theme=matrix&column=6&row=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true'
+          path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated trophy
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub trophies"
+          file_pattern: "assets/trophy.svg"
