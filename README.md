@@ -260,7 +260,6 @@ const omPrakash = {
 </div>
 
 ---
-<!-- 🟢 GitHub Trophies -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
 <p align="center">
@@ -294,18 +293,14 @@ const omPrakash = {
 
 <br />
 
-<!-- 📊 GitHub Stats -->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
-
-    <!-- GitHub Stats -->
     <td width="50%">
       <h3 align="center">
         <strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong>
       </h3>
-
       <p align="center">
         <a href="https://github.com/CodeByPrakash">
           <img
@@ -315,13 +310,10 @@ const omPrakash = {
         </a>
       </p>
     </td>
-
-    <!-- Streak Stats -->
     <td width="50%">
       <h3 align="center">
         <strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong>
       </h3>
-
       <p align="center">
         <a href="https://github.com/CodeByPrakash">
           <img
@@ -331,17 +323,12 @@ const omPrakash = {
         </a>
       </p>
     </td>
-
   </tr>
-
   <tr>
-
-    <!-- Latest Project -->
     <td width="50%">
       <h3 align="center">
         <strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong>
       </h3>
-
       <p align="center">
         <a href="https://github.com/CodeByPrakash/portfolio">
           <img
@@ -352,13 +339,10 @@ const omPrakash = {
         </a>
       </p>
     </td>
-
-    <!-- Top Contributions -->
     <td width="50%">
       <h3 align="center">
         <strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong>
       </h3>
-
       <p align="center">
         <a href="https://github.com/CodeByPrakash">
           <img
@@ -368,13 +352,11 @@ const omPrakash = {
         </a>
       </p>
     </td>
-
   </tr>
 </table>
 
 <br />
 
-<!-- 📈 Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 
 <div align="center">
