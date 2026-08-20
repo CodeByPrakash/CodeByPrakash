@@ -279,11 +279,11 @@ const omPrakash = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeByPrakash&bg_color=0c0c0d&color=3700ff&line=4400ff&point=ff00c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ---
 
