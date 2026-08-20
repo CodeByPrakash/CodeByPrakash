@@ -260,7 +260,6 @@ const omPrakash = {
 </div>
 
 ---
-```html
 <!-- 🟢 GitHub Trophies -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
@@ -375,12 +374,13 @@ const omPrakash = {
 
 <br />
 
-<!-- 🟢 Contribution Graph -->
+<!-- 📈 Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 
 <div align="center">
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
