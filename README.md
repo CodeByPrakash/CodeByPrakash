@@ -260,69 +260,146 @@ const omPrakash = {
 </div>
 
 ---
-<!--Trophies Section-->   
+```html
+<!-- 🟢 GitHub Trophies -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+
 <p align="center">
-  <a href="https://github.com/Kiran1689">
+  <a href="https://github.com/CodeByPrakash">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-trophy-ruddy.vercel.app/?username=CodeByPrakash&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=matrix"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-trophy-ruddy.vercel.app/?username=CodeByPrakash&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20"
+      />
+      <img
+        src="https://github-profile-trophy-ruddy.vercel.app/?username=CodeByPrakash&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=matrix"
+        alt="GitHub Trophies"
+      />
     </picture>
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/daytonaio/daytona">
+  <a href="https://github.com/CodeByPrakash">
     <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
+      src="https://api.vaunt.dev/v1/github/entities/CodeByPrakash/achievements?format=svg&limit=6"
       width="400"
+      alt="GitHub Achievements"
     />
   </a>
 </p>
+
 <br />
 
-<!--Github stats Table--> 
+<!-- 📊 GitHub Stats -->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
+
+    <!-- GitHub Stats -->
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center">
+        <strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong>
+      </h3>
+
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <a href="https://github.com/CodeByPrakash">
+          <img
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=CodeByPrakash&count_private=true&show_icons=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&icon_color=39ff88&border_color=30363d&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage"
+            alt="GitHub Stats"
+          />
         </a>
       </p>
     </td>
+
+    <!-- Streak Stats -->
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center">
+        <strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong>
+      </h3>
+
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <a href="https://github.com/CodeByPrakash">
+          <img
+            src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=CodeByPrakash&background=0d1117&border=30363d&stroke=30363d&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"
+            alt="GitHub Streak Stats"
+          />
         </a>
       </p>
     </td>
+
   </tr>
+
   <tr>
+
+    <!-- Latest Project -->
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center">
+        <strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong>
+      </h3>
+
       <p align="center">
-        <a href="https://github.com/Kiran1689/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/CodeByPrakash/portfolio">
+          <img
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=CodeByPrakash&repo=portfolio&show_owner=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&icon_color=39ff88&border_color=30363d"
+            width="470"
+            alt="Portfolio Project"
+          />
         </a>
       </p>
     </td>
+
+    <!-- Top Contributions -->
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center">
+        <strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong>
+      </h3>
+
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/CodeByPrakash">
+          <img
+            src="https://github-repository-contribution-stat-green.vercel.app/api?username=CodeByPrakash&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&border_color=30363d"
+            alt="Top Contributions"
+          />
         </a>
       </p>
     </td>
+
   </tr>
 </table>
+
 <br />
+
+<!-- 🟢 Contribution Graph -->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    alt="Pacman Contribution Graph"
+  />
+
+</picture>
+
+</div>
+```
 
 ---
 
