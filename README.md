@@ -364,23 +364,10 @@ const omPrakash = {
 
 <div align="center">
 
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-  />
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman"
-    alt="Pacman Contribution Graph"
-  />
-
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 </div>
