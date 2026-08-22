@@ -285,7 +285,7 @@ const omPrakash = {
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
 
 <p align="center">
-  <a href="https://github.com/CodeByPrakash">
+  <a href="https://community.vaunt.dev/board/CodeByPrakash/achievements">
     <img
       src="https://api.vaunt.dev/v1/github/entities/CodeByPrakash/achievements?format=svg&limit=6"
       width="500"
