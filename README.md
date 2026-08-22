@@ -260,7 +260,7 @@ const omPrakash = {
 </div>
 
 ---
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
 <p align="center">
   <a href="https://github.com/CodeByPrakash">
@@ -282,7 +282,7 @@ const omPrakash = {
 </p>
 
 <!-- 🏆 Vaunt Achievements -->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
+<h2 align="center">Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
 
 <p align="center">
   <a href="https://community.vaunt.dev/board/CodeByPrakash/achievements">
@@ -296,7 +296,7 @@ const omPrakash = {
 
 <br />
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
