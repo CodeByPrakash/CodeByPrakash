@@ -262,14 +262,28 @@ const omPrakash: Developer = {
 <br />
 
 <!-- Pacman Contribution Animation -->
-<h2 align="center">👾 Interactive Pacman Contributions</h2>
+<h2 align="center">📈 GitHub Contribution Calendar</h2>
 
 <div align="center">
   <a href="https://github.com/CodeByPrakash">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByPrakash&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a78bfa&area=true&area_color=6e56cf&hide_border=true&radius=8" 
+      src="https://ghchart.rshah.org/6E56CF/CodeByPrakash" 
       width="100%" 
-      alt="Contribution Activity Graph" 
+      alt="CodeByPrakash's GitHub Contributions" 
+    />
+  </a>
+</div>
+
+<br/>
+
+<h2 align="center">🐍 Contribution Snake Animation</h2>
+
+<div align="center">
+  <a href="https://github.com/CodeByPrakash">
+    <img 
+      src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/output/github-contribution-grid-snake-dark.svg" 
+      alt="GitHub Contribution Grid Snake" 
+      width="100%" 
     />
   </a>
 </div>
