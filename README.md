@@ -84,9 +84,11 @@
     </td>
   </tr>
 </table>
+
 <details>
   <summary><b>⚡ View Developer Specification (TypeScript)</b></summary>
   <br/>
+  
 ```typescript
 interface Developer {
   name: string;
