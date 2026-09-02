@@ -27,6 +27,12 @@
 
 ---
 
+<div align="center">
+  <img src="hero_showcase.svg" width="100%" alt="Om Prakash Behera - Hero Spotlight" />
+</div>
+
+<br/>
+
 <!-- ======================================================== -->
 <!-- 🧑‍💻 ABOUT ME (LEFT: DETAILS, RIGHT: PHOTO)             -->
 <!-- ======================================================== -->
