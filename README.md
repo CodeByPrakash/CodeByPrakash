@@ -263,11 +263,13 @@ const omPrakash: Developer = {
 <h2 align="center">👾 Interactive Pacman Contributions</h2>
 
 <div align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/CodeByPrakash/CodeByPrakash/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
-  </picture>
+  <a href="https://github.com/CodeByPrakash">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByPrakash&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=a78bfa&area=true&area_color=6e56cf&hide_border=true&radius=8" 
+      width="100%" 
+      alt="Contribution Activity Graph" 
+    />
+  </a>
 </div>
 
 ---
