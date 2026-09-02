@@ -84,12 +84,9 @@
     </td>
   </tr>
 </table>
-
-<!-- Interactive Developer Config -->
 <details>
   <summary><b>⚡ View Developer Specification (TypeScript)</b></summary>
   <br/>
-
 ```typescript
 interface Developer {
   name: string;
@@ -119,24 +116,15 @@ const omPrakash: Developer = {
   funFact: "I debug with console.log() and I'm proud of it 😄",
 };
 ```
-
 </details>
-
 <br/>
-
-<!-- ======================================================== -->
-<!-- 🎥 LOOPING & AUTOPLAYING SHOWCASE (GIF / ANIMATION)       -->
-<!-- ======================================================== -->
-
 <div align="center">
-  <a href="https://github.com/CodeByPrakash">
     <img 
       src="zenitsu.gif" 
       width="100%" 
       alt="Developer Coding Animation" 
       style="max-width: 750px; border-radius: 12px; border: 2px solid rgba(110, 86, 207, 0.35);" 
     />
-  </a>
 </div>
 
 ---
